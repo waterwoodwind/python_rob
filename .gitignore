@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+# pycharm
+workspace.xml
+
 __pycache__/
 *.py[cod]
 
