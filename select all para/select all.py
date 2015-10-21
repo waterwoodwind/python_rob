@@ -2,7 +2,7 @@ import autopy
 import time
 
 
-autopy.mouse.move(91,334)
+autopy.mouse.move(229,370)
 time.sleep(2)
 
 for i in range(1,1600):
