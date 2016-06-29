@@ -43,4 +43,4 @@ class AUTO():
             autopy.key.tap(autopy.key.K_RETURN)
 
 auto = AUTO()
-auto.auto_tran(u"E:\WQAR20151007\", u"B-1527")
+auto.auto_tran(u"E:\WQAR20151007\"", u"B-1527")
